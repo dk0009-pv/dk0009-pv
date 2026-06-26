@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkata Dinesh Kumar Pulagalla</h1>
+<h1 align="center">Hi 👋, I'm Dinesh Kumar Pulagalla</h1>
 
 <h3 align="center">
 AI & Data Science Student • Machine Learning Enthusiast • Python Developer
