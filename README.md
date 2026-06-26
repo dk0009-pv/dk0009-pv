@@ -35,7 +35,7 @@ AI & Data Science Student • Machine Learning Enthusiast • Python Developer
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
 ### 🤖 AI & Data Science
