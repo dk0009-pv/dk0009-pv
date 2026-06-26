@@ -117,14 +117,6 @@ AI & Data Science Student • Machine Learning Enthusiast • Python Developer
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dk0009-pv&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
