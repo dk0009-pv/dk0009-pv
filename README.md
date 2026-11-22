@@ -19,7 +19,6 @@ AI & Data Science Student • Machine Learning Enthusiast • Python Developer
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech in Artificial Intelligence & Data Science
-* 🤖 Machine Learning Intern @ Future Interns
 * 🌐 Web Development Intern @ SkillCraft Technology
 * 🚀 Google Developer Program Member
 * ⚡ Former IEEE Student Member (2025)
@@ -63,11 +62,6 @@ AI & Data Science Student • Machine Learning Enthusiast • Python Developer
 ---
 
 ## 💼 Experience
-
-### 🤖 Machine Learning Intern | Future Interns
-
-* Built and evaluated machine learning models.
-* Worked with real-world datasets and predictive analytics.
 
 ### 🌐 Web Development Intern | SkillCraft Technology
 
