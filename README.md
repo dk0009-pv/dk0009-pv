@@ -2,7 +2,7 @@
 
 <h3 align="center">
 AI & Data Science Student • Machine Learning Enthusiast • Python Developer
-</h3>
+</h3> 
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Generative+AI+%7C+LLMs+%7C+Data+Science;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
